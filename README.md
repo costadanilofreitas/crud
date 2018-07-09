@@ -1,4 +1,4 @@
-#  <img src="https://www.gfxmag.com/wp-content/uploads/2016/07/unity-icon-vector-logo.png" width="35"> Laravel - Primeiro projeto
+#  <img src="http://logonoid.com/images/laravel-logo.png" width="35"> Laravel - Primeiro projeto
 
 Projeto para aprendizado usando o framework PHP - Laravel. Nesse projeto foi desenvolvido dois CRUDs, um de produtos, e outro de estruturas, tem tem o produto como _foreign key_. 
 
